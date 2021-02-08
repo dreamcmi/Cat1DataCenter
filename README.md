@@ -4,21 +4,33 @@
 Cat1DataCenter 
 Cat1数据中心项目
 
-#### 软件架构
-软件架构说明
+#### 项目进度
 
+##### 2021.2.9
 
-#### 安装教程
+1、软件构建已完成，自动识别网卡
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2、硬件Ver1.0测试完成
 
-#### 使用说明
+已知问题：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+（1）TF卡方向错误
+
+（2）网络状态指示灯有几率出现卡住，推测走线问题导致
+
+（3）无法挂载网卡，推测和差分线过长有关系。
+
+3、下一版目标
+
+（1）更换air724为air722，缩小体积，加大走线空间
+
+（2）更改tf卡位置
+
+（3）设置usb开关（待验证可行性）
+
+（4）考虑air820设计（待验证）
+
+（5）考虑增加Lora支持（就当flag了）
 
 #### 参与贡献
 
@@ -26,13 +38,3 @@ Cat1数据中心项目
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
