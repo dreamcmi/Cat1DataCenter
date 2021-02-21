@@ -14,9 +14,9 @@ Cat1数据中心项目
 
 1、预览图片出来了
 
-![Cat1DataCenter_V2_F](show\Cat1DataCenter_V2_F.png)
+![Cat1DataCenter_V2_F](https://gitee.com/dreamcmi/cat1-data-center/blob/e1233e01a045061512ae430095e6f23324c4d627/show/Cat1DataCenter_V2_B.png)
 
-![Cat1DataCenter_V2_B](show\Cat1DataCenter_V2_B.png)
+![Cat1DataCenter_V2_B](https://gitee.com/dreamcmi/cat1-data-center/blob/e1233e01a045061512ae430095e6f23324c4d627/show/Cat1DataCenter_V2_F.png)
 
 这稿只是匆匆赶出来的，等打完版测试好软件就重新进行走线设计
 
