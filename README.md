@@ -6,7 +6,7 @@ Cat1数据中心项目
 
 希望大家多给提意见，第一次做全方案的软硬设计，技术经验不足。
 
-本仓库在Gitee 、GitHub 、Gitlab都有发布，仓库名都为Cat1DataCenter ，希望大家点点小星星start支持作者。
+本仓库在Gitee、GitHub、Gitlab都有发布，仓库名都为Cat1DataCenter ，希望大家点点小星星start支持作者。
 
 ### 项目进度
 
