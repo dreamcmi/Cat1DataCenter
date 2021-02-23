@@ -1,4 +1,4 @@
-# Cat1DataCenter
+Cat1DataCenter
 
 ### 介绍
 Cat1DataCenter 
@@ -9,6 +9,10 @@ Cat1数据中心项目
 本仓库在Gitee、GitHub、Gitlab都有发布，仓库名都为Cat1DataCenter ，希望大家点点小星星start支持作者。
 
 ### 项目进度
+
+#### 2020.2.23
+
+原理图 gerber bom都发一下，并不是最终版本，仅供参考
 
 #### 2020.2.22
 
